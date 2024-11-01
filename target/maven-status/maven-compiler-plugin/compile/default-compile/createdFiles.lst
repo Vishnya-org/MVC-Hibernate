@@ -1,0 +1,10 @@
+web\repo\UserRepositoryImpl.class
+web\service\UserService.class
+web\controller\HelloController.class
+web\config\AppConfig.class
+web\config\AppInit.class
+web\config\WebConfig.class
+web\controller\UserController.class
+web\service\UserServiceImpl.class
+web\repo\UserRepository.class
+web\model\User.class
